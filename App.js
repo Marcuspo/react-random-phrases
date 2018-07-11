@@ -14,7 +14,7 @@ frases[4] = 'Que todo mal vire amor, que toda dor vire flor.';
 
 var fraseEscolhida = frases[ numeroAleatorio ];
 
-  Alert.alert( fraseEscolhida );
+  Alert.alert('Frase escolhida', fraseEscolhida );
 
 }
 
